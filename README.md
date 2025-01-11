@@ -1,4 +1,4 @@
-POST Request
+# POST Request
 
 <!-- start:code block -->
 curl -X 'POST' \
@@ -12,7 +12,7 @@ curl -X 'POST' \
 }'
 <!-- end:code block -->
 
-PRODUCT DB SQL
+# PRODUCT DB SQL
 
 <!-- start:code block -->
 INSERT INTO Product (name,price,stockQuantity) VALUES
