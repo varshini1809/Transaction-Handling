@@ -1,3 +1,9 @@
+
+- Implemented transaction management within the Spring framework to handle product purchase workflows.  
+- Designed processes to persist orders to the database, update stock levels in the inventory system, and record payment details efficiently.  
+- Incorporated failure handling mechanisms with transaction rollback to prevent data inconsistencies and ensure system integrity.  
+
+
 # POST Request
 
 <!-- start:code block -->
